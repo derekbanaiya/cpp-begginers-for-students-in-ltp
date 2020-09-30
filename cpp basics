@@ -1,0 +1,11 @@
+start with basics
+
+code for hello world in cpp
+
+#include <iostream>
+using namespace std:
+
+int main(){
+cout<<hello world;
+return 0;
+}
